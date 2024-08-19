@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cooping {
+public class coping {
     public static void main(String[] args) {
         int size;
         Scanner sc = new Scanner(System.in);
